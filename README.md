@@ -16,4 +16,4 @@ The commonly used methods in Python for EDA using pandas and numpy:
 - .value_counts())
 - .replace()
 
-Visualization via **Matplotlib** and **Seaborn in Python** is performed using **pairplot and heatmap** to check the features of the scaling, outliers, skew, distribution, and association between features.
+**Visualization via **Matplotlib** and **Seaborn in Python** is performed using **pairplot and heatmap** to check the features of the scaling, outliers, skew, distribution, and association between features.**
